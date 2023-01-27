@@ -1,3 +1,2 @@
-def test1() {
+def test1():
   print('test1')
-}
