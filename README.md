@@ -22,6 +22,8 @@ its data structure is **stack**
 
 - return to N commit from the back
   - git reset --hard HEAD~N
+
+- git reset HEAD^: 로컬의 마지막커밋을 제거하고 커밋전의 unstaged 상태로 되돌림.
   
 ### git commit --amend
 - help change last commit msg
