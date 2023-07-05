@@ -25,3 +25,7 @@ its data structure is **stack**
   
 ### git commit --amend
 - help change last commit msg
+
+### git log, git reflog
+- git log: 커밋 히스토리
+- git reflog: 참조포인터 변경이력
