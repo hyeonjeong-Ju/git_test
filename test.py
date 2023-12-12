@@ -4,3 +4,4 @@ def test2():
 
 def test2():
   print('2')
+
